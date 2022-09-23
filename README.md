@@ -23,4 +23,5 @@ Usage: (IMPORTANT, FOLLOW THIS)
 credit: @sammy & @mistree for bugchecking for me on Windows 7
 
 https://github.com/waryas/EUPMAccess
+
 https://www.unknowncheats.me/forum/anti-cheat-bypass/239692-dkom-allow-process-read-physical-memory-driver.html
